@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/ЛогоМал.png</file>
+        <file>image/ЛогоЭмблема.png</file>
+        <file>pages/DeviceSelect.qml</file>
+        <file>pages/Logo.qml</file>
+        <file>pages/ControlBoard.qml</file>
+        <file>image/ВидСверху.png</file>
+        <file>main.cpp</file>
+        <file>elements/JoystickOld.qml</file>
+        <file>elements/Joystick.qml</file>
+        <file>image/Стрелки.png</file>
+        <file>bluetoothmanager.cpp</file>
+        <file>bluetoothmanager.h</file>
+        <file>image/Настройки.png</file>
+        <file>image/Аккумулятор1.png</file>
+        <file>image/Аккумулятор2.png</file>
+        <file>image/Аккумулятор3.png</file>
+        <file>image/Аккумулятор4.png</file>
+        <file>image/Аккумулятор5.png</file>
+        <file>image/Нет связи с роботом.png</file>
+        <file>image/Связь с роботом.png</file>
+        <file>image/Связь с роботом Зеленый.png</file>
+    </qresource>
+</RCC>
